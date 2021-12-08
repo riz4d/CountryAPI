@@ -1,4 +1,5 @@
 # CountryAPI
+An API interface to fetch information of countries
 
 
 <pre>
